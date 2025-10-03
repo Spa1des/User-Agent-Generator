@@ -1,2 +1,9 @@
 # User-Agent-Generator
-Sime python script to generate user agents.
+
+pip install -r requirements.txt
+
+open cmd
+
+cd path/to/gen.py
+python3 gen.py
+python gen.py
