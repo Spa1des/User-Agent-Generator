@@ -8,4 +8,6 @@ cd path/to/gen.py
 
 python3 gen.py
 
+or windows
+
 python gen.py
