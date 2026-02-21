@@ -1,12 +1,8 @@
 # User-Agent-Generator
 
-```pip install -r requirements.txt```
+1. ```cd path/to/gen.py```
 
-open cmd
-
-```cd path/to/gen.py```
-
-then 
+2. ```pip install -r requirements.txt```
 
 ```python3 gen.py```
 
