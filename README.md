@@ -5,5 +5,7 @@
 2. ```pip install -r requirements.txt```
 
     ```python3 gen.py```
-    or
+
+   or
+   
     ```python gen.py```
