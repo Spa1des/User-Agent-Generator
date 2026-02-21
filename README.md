@@ -1,11 +1,23 @@
 # User-Agent-Generator
 
-1. ```cd path/to/gen.py```
+A simple Python tool that generates random browser User-Agent strings.  
+Useful for web scraping, automation testing, or experimenting with different browser identifiers.
 
-2. ```pip install -r requirements.txt```
+---
 
-    ```python3 gen.py```
+## 🧪 Features
 
-      or
-   
-    ```python gen.py```
+- Generates realistic User-Agent strings
+- Easy to run and use
+- Beginner-friendly Python project
+
+---
+
+## 🚀 Installation
+
+Clone the repo and install dependencies:
+
+```bash
+git clone https://github.com/Spa1des/User-Agent-Generator.git
+cd User-Agent-Generator
+pip install -r requirements.txt
